@@ -1,0 +1,1 @@
+"""Woodpecker Crossword Generator backend."""
